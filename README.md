@@ -13,6 +13,6 @@ It contains four files:
 
 2. data_tidy.txt, which shows the tidy data set created by run_analysis.R
 
-3. README.md (the file you are looking at), which explains the analysis files is clear and understandable.
+3. README.md (the file you are looking at), which gives sort of table-of-contents
 
 4. CodeBook.md, which provides info on all the variables and summaries calculated

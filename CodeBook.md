@@ -89,4 +89,4 @@ This code book summarizes the resulting data fields in `data_tidy.txt`.
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
 
-### For more information on the definition of measures, please go to http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+#### For more information on the definition of measures, please go to http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
